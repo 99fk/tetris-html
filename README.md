@@ -27,7 +27,7 @@ You are free to use, modify, and distribute this project under the terms of that
 
 ## 🚀 Play Now
 
-Just open [`index.html`](./index.html) in your browser to start playing!
+Just open [https://99fk.github.io/tetris.html](https://99fk.github.io/tetris-html) in your browser to start playing!
 
 ## ❤️ Credits
 
